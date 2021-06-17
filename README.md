@@ -5,7 +5,6 @@
 [![Build](https://img.shields.io/badge/Language-python-blue.svg?maxAge=259200)]()
 [![Build](https://img.shields.io/badge/contributions-CadotID-blue.svg?style=flat)]()
 ![banner](https://user-images.githubusercontent.com/71793332/98446716-f6b42200-2151-11eb-8418-4345809cb7a1.png)
-![banner](https://user-images.githubusercontent.com/71793332/116948662-38a9c500-acaa-11eb-9f42-1ba04d1e5e98.png)
 ## Information 
 - how do i retrieve token?
 - https://www.facebook.com/100040392557013/posts/501820317841049/?app=fbl
